@@ -1,6 +1,6 @@
 # Desafio Calculo Horas de Trabalho
 
-Esse programa foi criado como um desafio de estágio pela empresa Ahgora.
+Esse programa foi criado como um desafio.
 
 # Sobre
 
